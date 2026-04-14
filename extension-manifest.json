@@ -1,0 +1,17 @@
+{
+  "name": "siteimprove",
+  "id": "siteimprove",
+  "description": "Siteimprove Extension",
+  "version": "0.0.1",
+  "rightPanelRails": [
+    {
+      "header": "Siteimprove",
+      "id": "siteimprove"
+    }
+  ],
+  "runtimeActions": [
+    {
+      "name": "get-page-content"
+    }
+  ]
+}
